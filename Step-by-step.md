@@ -1,4 +1,3 @@
-```markdown
 # 🏠 House Prices Prediction – Step-by-Step Code Breakdown
 
 This project walks through the process of preparing a dataset, training a model, and making predictions — all while explaining how and why each step is done. Let's break down the code into meaningful sections.
@@ -242,4 +241,4 @@ output.head()
 - We engineered features, handled missing values, and encoded categorical data.
 - We trained and optimized a **Decision Tree model**.
 - Finally, we made predictions and created a submission file.
-```
+
