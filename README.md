@@ -1,5 +1,3 @@
-# Kaggle-House-Prices---Advanced-Regression-Techniques
-Use python and random forest model to clean the project and build the model
 # 🏠 House Prices Prediction with Machine Learning
 
 This project predicts house prices using a Decision Tree Regressor trained on the [Kaggle House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) dataset. It includes data cleaning, feature engineering, model training, and submission creation — all explained step-by-step for beginners.
